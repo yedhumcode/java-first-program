@@ -14,7 +14,7 @@ public class MyFirstClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Calculator newobj = new Calculator();
-		newobj.calcu(7,4, "addd");
+		newobj.calcu(7,4, "multiple");
 	}
 }
 
