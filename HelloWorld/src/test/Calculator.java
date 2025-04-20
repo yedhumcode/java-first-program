@@ -1,5 +1,6 @@
 package test;
 
+// Program Logic
 public class Calculator {
 
 	public static void calcu(int a, int b, String s) {
